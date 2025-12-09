@@ -10,8 +10,3 @@ Each session log follows:
 - Results
 - Issues
 - Next Actions
-
-Example:
-`2025-12-10_soldering_tests.md`
-
-Keep one new log per day/session for reproducibility.
